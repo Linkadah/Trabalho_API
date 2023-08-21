@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Montserrat&display=swap');
+
+body {
+    background-color: #FFB6B9;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#container {
+    text-align: center;
+}
+
+#botaoGerarGato {
+    padding: 10px 20px;
+    background-color: #f79bc5;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#botaoGerarGato:hover {
+    background-color: #F6C7C7;
+}
+
+#imagem {
+    max-width: 100%;
+    height: auto;
+    margin-top: 30px;
+}
+
